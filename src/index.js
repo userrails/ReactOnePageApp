@@ -7,6 +7,5 @@ import Headers from './Headers';
 ReactDOM.render(
 	<div>
     <Headers/>
-    <h2>Welcome to my dashboards.</h2>
   </div>, document.getElementById('root')
 );
