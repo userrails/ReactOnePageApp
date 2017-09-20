@@ -9,7 +9,13 @@ export default class Footers extends React.Component {
         <div className="footer-section">
           <div className="container">
             <div className="row">
-              <div className="col-sm-12">
+              <div className="col-sm-4">
+                <h2>hello is footer section</h2>
+              </div>
+              <div className="col-sm-4">
+                <h2>hello is footer section</h2>
+              </div>
+              <div className="col-sm-4">
                 <h2>hello is footer section</h2>
               </div>
             </div>
